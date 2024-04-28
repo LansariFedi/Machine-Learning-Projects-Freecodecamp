@@ -1,2 +1,2 @@
 # Machine-Learning-Projects-Freecodecamp
-My solutions for machine learning projects by Freecodecamp
+### My solutions for the machine learning projects by Freecodecamp

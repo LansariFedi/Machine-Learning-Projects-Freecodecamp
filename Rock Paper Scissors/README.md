@@ -1,4 +1,4 @@
-# Link To The Project
+# The Needed Function
 ```
 def player(prev_play, opponent_history=[], play_order={}):
     if prev_play == '':

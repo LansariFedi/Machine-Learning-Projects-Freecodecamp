@@ -1,5 +1,5 @@
 # Link To The Project
-'''python
+```
 def player(prev_play, opponent_history=[], play_order={}):
     if prev_play == '':
         prev_play = 'R'
@@ -29,5 +29,4 @@ def player(prev_play, opponent_history=[], play_order={}):
     ideal_response = {'P': 'S', 'R': 'P', 'S': 'R'}
     
     return ideal_response[prediction]
-
-'''
+```

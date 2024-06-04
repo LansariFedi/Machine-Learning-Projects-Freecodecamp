@@ -1,5 +1,5 @@
 # Link To The Project
-'''Python
+'''
 def player(prev_play, opponent_history=[], play_order={}):
     if prev_play == '':
         prev_play = 'R'
